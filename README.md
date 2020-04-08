@@ -1,5 +1,5 @@
 # Through-the-city
-# plug
+# plugin
  QQ
  穿越福城
  python3 + opencv2 + adb
